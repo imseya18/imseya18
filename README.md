@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **42 common core cursus**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++, JS**
 
 - 💬 Ask me about **C, C++, JS**
 

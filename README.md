@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **RUST**
 
-- 💬 Ask me about **C, C++, DJANGO,JS**
+- 💬 Ask me about **C, C++, DJANGO, JS**
 
 - 📫 How to reach me **imseya68@gmail.com**
 

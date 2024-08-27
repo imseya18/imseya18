@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mathieu</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on **42 common core cursus**
+- 🔭 I’m currently working on a **RUST pwd_manager**
 
 - 🌱 I’m currently learning **RUST**
 

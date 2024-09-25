@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **RUST pwd_manager**
 
-- 🌱 I’m currently learning **RUST**
+- 🌱 I’m currently learning **RUST, TAURI**
 
 - 💬 Ask me about **C, C++, DJANGO, JS**
 

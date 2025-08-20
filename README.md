@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mathieu</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on a **RUST pwd_manager**
+- 🔭 I’m currently working on a **RUST test_bench_vizualiser**
 
 - 🌱 I’m currently learning **RUST, TAURI**
 
-- 💬 Ask me about **C, C++, DJANGO, JS**
+- 💬 Ask me about **C, C++, RUST, TS**
 
 - 📫 How to reach me **imseya68@gmail.com**
 
